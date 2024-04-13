@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    color: rgb(251, 245, 253);
+    height: 90px;
+    font-size: 50px;
+    align-items: auto;
+    align-content: center;
+    border-bottom-right-radius: 35px;
+    border-top-right-radius: 35px;
+    margin: 5px;
+    padding-left: 3px;
+    background-color: rgb(92, 92, 4);
+    
+}
+
+form {
+    color: rgb(250, 253, 251);
+    font-size: 25px;
+    background-color: rgb(92, 92, 4);
+    text-align: left;
+    border-bottom-right-radius: 35px;
+    border-top-right-radius: 35px;
+    margin-right: 15px;
+    margin-top: 3px;
+    margin-left: 5px;
+    font-family: Arial;
+    padding-left: 15px;
+}
+
+
+
+input{
+    width: 1050px;
+    height: 100px;
+    font-size: 20px;
+    margin: 5px;
+    padding-left: 10px; 
+    padding-right: 50px;   
+}
+
+img{
+    height: 380px;
+    width: 350px;
+    align-items: center;
+    align-content: center;
+    display: flex;
+    margin-left: 5px;
+     
+}
+
+body{
+    background-image: url(https://img.freepik.com/free-vector/cosmetic-cream-swirl-background_1284-23953.jpg?t=st=1711727220~exp=1711730820~hmac=96e49f5afda1b6eeff3f09f9f751d458186c6f66a1653d447098d3d5763fce68&w=740);
+}
+
+button {
+    width: 90px;
+    height: 60px;
+    color: rgb(243, 242, 242);
+    font-weight: bold;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: rgb(84, 8, 8);
+    border-color: rgb(255, 255, 255);
+    border-width: 8px;
+    
+}
+
+h5{
+    font-size: 20px;
+    background-color: rgb(92, 92, 4);
+    height: 340px;
+    font-family: Cochin;
+    padding-left: 15px;
+    color: rgb(244, 240, 243);
+    align-items: auto;
+    padding-top: 40px;
+    width: 97%;
+    margin-left: 5px;
+    border-bottom-right-radius: 45px;
+    border-top-right-radius: 35px;
+}
+
+
+
+.container{
+    display: flex;
+}
+
+label{
+    background-color: rgb(51, 5, 5);
+    position: relative;
+    left: 5px;
+    border-radius: 5px;
+}
